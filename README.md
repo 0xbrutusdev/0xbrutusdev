@@ -10,7 +10,7 @@
 ## 🎯 What I Build
 
 **AI Agents:** Trading (Polymarket, Stocks, Crypto) • Social Media • Blockchain Monitoring • Revenue Generation  
-**Blockchains:** Solana | Ethereum | Bitcoin | BNB  
+**Blockchains:** Solana | Robinhood | Bitcoin  
 **Focus:** DeFi protocols • MEV strategies • On-chain analytics • Autonomous systems
 
 ---
@@ -22,7 +22,7 @@
 - **Multi-Market Trading Agents** - Automated execution across platforms
 
 ### ⛓️ Blockchain
-- **Full-Stack Trading Platform** (Solana + EVM) - Launch, Bundle, Snipe, Volume
+- **Full-Stack Trading Platform** - Launch, Bundle, Snipe, Volume
 - **Bubblemaps Bypass Engine** - Advanced wallet analysis
 - **Trading Bot Suite** - Sniper, Bundler, Copy Trading, Arbitrage, Volume, Telegram Interface
 
